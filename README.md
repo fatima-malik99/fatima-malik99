@@ -1,9 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Fatima+Malik;%7C+WordPress+Developer;Python+Trainer+%7C+Educator" alt="Typing SVG" />
+# Fatima Malik
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Fatima+Malik;WordPress+Developer;Python+Trainer+%7C+Educator" alt="Typing SVG" />
+  
   <p align="center">
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/fatima-malik99/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="mailto:fatima.malik.phy@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" />
+    </a>
   </p>
 </div>
 
@@ -71,7 +77,6 @@ Physics graduate turned tech enthusiast with a passion for education and develop
 - Fine-tuned LLAMA 3.2 model for offline education
 - [View Project](your-project-link)
 </details> -->
-
 
 ---
 <div align="center">
