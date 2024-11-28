@@ -1,5 +1,3 @@
-# Fatima Malik
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Fatima+Malik;WordPress+Developer;Python+Trainer+%7C+Educator" alt="Typing SVG" />
   
@@ -13,16 +11,17 @@
   </p>
 </div>
 
-## 🚀 About Me
-Physics graduate turned tech enthusiast with a passion for education and development. Currently serving as a Python Trainer and WordPress Developer, while pursuing various tech initiatives.
+## 👩‍💻 About Me
+Physics graduate turned tech enthusiast, passionate about education and development. Currently a Python Trainer and WordPress Developer, and a student in the **MIT Emerging Talent Program**. Always exploring new opportunities to grow and create impact through technology.
 
 ### 🏆 Achievements
 - 🥇 **Academic Excellence**: 3.77 CGPA
 - 🏆 **Hackathon Champion**: Won Worsprint Developers Hackathon 1.0 & 2.0
 - 🌟 **Global Competitions**: 
-  - Top 5 Finalist in EdgeRunners 3.0
-  - Ranked 7904th worldwide in Meta Hacker Cup 2024
-  - 139th rank worldwide in UC Berkeley Coding Competition 2024
+  - **Top 5 Finalist** in EdgeRunners 3.2 hackathon by lablab.ai
+  - Ranked *7904th* worldwide in **Meta Hacker Cup 2024**
+  - Secured *139th* rank worldwide in **UC Berkeley Coding Competition 2024**
+  - Among the **3** Pakistani students selected for the MIT Emerging Talent Program
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -34,22 +33,43 @@ Physics graduate turned tech enthusiast with a passion for education and develop
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+---
 ### 📚 Volunteer Experience
 
-- [**Python for beginners**](https://docs.google.com/spreadsheets/d/1Oo5hESmhv3NQ69iZQg4HaObxXr6ZBUEpSjJ3XOZc45Q/edit?gid=0#gid=0) - ICodeGuru(Silicon Valley, California)
-  - Training students to build a strong foundation in Python, preparing them for future DSA and AI studies.
-- [**Python for Mathematicians**](https://docs.google.com/spreadsheets/d/1XcZbxdY5kfnXElbu6AlL6p6q-Rf2S2cVxmEcE9an-_E/edit?gid=51909137#gid=51909137) - COMSATS University Lahore, Pakistan
-  - Conducting 2-hour Python training sessions for 60+ IMPM students.
+<details>
+<summary><strong><a href="https://docs.google.com/spreadsheets/d/1Oo5hESmhv3NQ69iZQg4HaObxXr6ZBUEpSjJ3XOZc45Q/edit?gid=0#gid=0">Python for beginners</a></strong> - ICodeGuru(Silicon Valley, California)</summary>
 
-- [**WordPress Theme Development**](https://docs.google.com/spreadsheets/d/1zv1ToprgM-ccTQs2R0s8iX1_rkne9d8ICqabKqbX04U/edit?usp=sharing) - ICodeGuru
-  - Taught HTML, CSS, PHP, and Bootstrap to over 100+ students.
-  - Helped students with plugin and theme development using JavaScript and jQuery.
+- Training 50+ students to build a strong foundation in Python.
+- Preparing them for future DSA and AI studies.
 
-- [**IELTS Trainer**](https://docs.google.com/spreadsheets/d/1bomCiVRdvaChuBvpv86q8fww3YRDOMbIXqaDZ-nKfeo/edit?usp=sharing) - ICodeGuru
-  - Trained 100 plus underprivileged students in IELTS, simplifying language and boosting comprehension.
-  - Provided personalized feedback and targeted strategies to improve in all modules.
-  - Many of my students got 7 and 7.5 bands.
+</details>
 
+<details>
+<summary><strong><a href="https://docs.google.com/spreadsheets/d/1XcZbxdY5kfnXElbu6AlL6p6q-Rf2S2cVxmEcE9an-_E/edit?gid=51909137#gid=51909137">Python for Mathematicians</a></strong> - COMSATS University Lahore</summary>
+
+- Conducting 2-hour Python training sessions for 60+ IMPM students
+- Focusing on practical applications in mathematical computations
+
+</details>
+
+<details>
+<summary><strong><a href="https://docs.google.com/spreadsheets/d/1zv1ToprgM-ccTQs2R0s8iX1_rkne9d8ICqabKqbX04U/edit?usp=sharing">WordPress Development</a></strong> - ICodeGuru</summary>
+
+- Taught HTML, CSS, PHP, and Bootstrap to over 100+ students.
+- Helped students with plugin and theme development using JavaScript and jQuery.
+
+</details>
+
+<details>
+<summary><strong><a href="https://docs.google.com/spreadsheets/d/1bomCiVRdvaChuBvpv86q8fww3YRDOMbIXqaDZ-nKfeo/edit?usp=sharing">IELTS Trainer</a></strong> - ICodeGuru</summary>
+
+- Trained 100 plus underprivileged students in IELTS, simplifying language and boosting comprehension.
+- Provided personalized feedback and targeted strategies to improve in all modules.
+- Many of my students got 7 and 7.5 bands.
+
+</details>
+
+---
 ### 🎓 Workshops and Webinars
 - [**Meta Hacker Cup**](https://www.youtube.com/live/j-eabLZfYFM) - Guest speaker @ GDSC University of Engineering and Technology, Lahore
 
@@ -60,29 +80,38 @@ Physics graduate turned tech enthusiast with a passion for education and develop
 
   - Taught how to create a simple portfolio using wordpress elementor plugin
 
-
+---
 ### 🌟 Featured Projects
-<!-- <details>
-<summary>NASA Space App Challenge - SlipStream</summary>
+- [**Web Agency Theme Design**](https://github.com/fatima-malik99/Web-Agency-Theme) 
+  - Custom WordPress theme with admin dashboard integration
+  - User-friendly theme settings interface
+  - Optimized scripts and responsive design
 
-- Led team development of interactive map using Leaflet.js
-- Focused on landslide and mudflow risk visualization
-- [View Project](your-project-link)
-</details>
+- [**Related Posts Plugin**](https://github.com/mqurban/WP_TechTitans) 
+  - Custom interface for related content management
+  - Multiple display options (random, cached, custom)
+  - Automated thumbnail generation
+  - List view option for image-free display
 
-<details>
-<summary>Offline Edubot - Edge Runners 3.2</summary>
+- [**Offline Edubot**](https://lablab.ai/event/edge-runners-3-point-2/edge-powerhouse/offline-edubot) 
+  - AI-based offline education tutor using NLP & ML
+  - Fine-tuned LLAMA 3.2 model
+  - Personalized learning with preloaded content
 
-- AI-based tutor using NLP and ML
-- Fine-tuned LLAMA 3.2 model for offline education
-- [View Project](your-project-link)
-</details> -->
+- [**SlipStream**](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/ai_in_multiverse/?tab=project) 
+  - Interactive Leaflet.js map for landslide risk areas
+  - Risk visualization and assessment tools
+  - NASA Space Apps Challenge project
+
+- [**Contact Form Plugin**](https://github.com/fatima-malik99/Contact-form-Plugin) 
+  - WordPress data collection plugin
+  - Admin dashboard for data management
+  - Shortcode integration for easy deployment
 
 ---
+
 <div align="center">
-  <div style="background: linear-gradient(90deg, #1a1c2c 0%, #4a569d 100%); padding: 40px; margin: 20px 0; border-radius: 10px;">
-    <h3 style="color: #E6E6FA; font-family: 'Georgia', serif; font-size: 24px; line-height: 1.5;">
-      "The journey of learning never ends, and mastery begins when you start to teach."
-    </h3>
-  </div>
+╔══════════════════════════════════════════════════════════════════════════════════╗
+<h2><em><strong>"The journey of learning never ends, and mastery begins when you start to teach."</strong></em></h2>
+╚══════════════════════════════════════════════════════════════════════════════════╝
 </div>
