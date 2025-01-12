@@ -12,9 +12,14 @@
 </div>
 
 ## 👩‍💻 About Me
-Physics graduate turned tech enthusiast, passionate about education and development. Currently a Python Trainer and WordPress Developer, and a student in the **MIT Emerging Talent Program**. Always exploring new opportunities to grow and create impact through technology.
+
+Physics graduate turned tech enthusiast, passionate about education and development. 
+Currently a Python Trainer and WordPress Developer, and a student in the 
+**MIT Emerging Talent Program**. Always exploring new opportunities to grow and 
+create impact through technology.
 
 ### 🏆 Achievements
+
 - 🥇 **Academic Excellence**: 3.77 CGPA
 - 🏆 **Hackathon Champion**: Won Worsprint Developers Hackathon 1.0 & 2.0
 - 🌟 **Global Competitions**: 
@@ -22,8 +27,10 @@ Physics graduate turned tech enthusiast, passionate about education and developm
   - Ranked *7904th* worldwide in **Meta Hacker Cup 2024**
   - Secured *139th* rank worldwide in **UC Berkeley Coding Competition 2024**
   - Among the **3** Pakistani students selected for the MIT Emerging Talent Program
+  - Participated in **Advent of code 2024** and solved 25 day challenges.
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,6 +41,7 @@ Physics graduate turned tech enthusiast, passionate about education and developm
 </p>
 
 ---
+
 ### 📚 Volunteer Experience
 
 <details>
@@ -70,6 +78,7 @@ Physics graduate turned tech enthusiast, passionate about education and developm
 </details>
 
 ---
+
 ### 🎓 Workshops and Webinars
 - [**Meta Hacker Cup**](https://www.youtube.com/live/j-eabLZfYFM) - Guest speaker @ GDSC University of Engineering and Technology, Lahore
 
@@ -81,6 +90,7 @@ Physics graduate turned tech enthusiast, passionate about education and developm
   - Taught how to create a simple portfolio using wordpress elementor plugin
 
 ---
+
 ### 🌟 Featured Projects
 - [**Web Agency Theme Design**](https://github.com/fatima-malik99/Web-Agency-Theme) 
   - Custom WordPress theme with admin dashboard integration
