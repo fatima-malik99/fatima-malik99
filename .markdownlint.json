@@ -1,18 +1,17 @@
 {
+  "_comments": {
+    "MD013": "Disabled to allow long lines (useful for tables and code blocks).",
+    "MD033": "Allows specific HTML elements for advanced formatting.",
+    "MD041": "Disables the requirement for a first header.",
+    "MD045": "Disables the requirement for alt text in images.",
+    "MD022": "Allows flexible heading spacing.",
+    "MD032": "Disables strict blank line enforcement.",
+    "MD012": "Allows multiple consecutive blank lines.",
+    "MD009": "Disables strict trailing space rules in lists."
+  },
   "MD013": false,
   "MD033": {
-    "allowed_elements": [
-      "div",
-      "img",
-      "p",
-      "a",
-      "h2",
-      "h3",
-      "em",
-      "strong",
-      "details",
-      "summary"
-    ]
+    "allowed_elements": ["div", "img", "p", "a", "h2", "h3", "em", "strong", "details", "summary"]
   },
   "MD041": false,
   "MD045": false,
