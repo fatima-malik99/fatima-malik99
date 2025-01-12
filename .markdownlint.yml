@@ -39,15 +39,15 @@ MD024: false # Allow multiple headings with the same content
 MD041: false # First line in a file being a top-level heading
 
 # GitHub Actions
-name: Markdown Lint
+# name: Markdown Lint
 
-on: [push, pull_request]
+# on: [push, pull_request]
 
-jobs:
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v3
-    - uses: DavidAnson/markdownlint-cli2-action@v18
-      with:
-        config: '.markdownlint.json'
+# jobs:
+#   lint:
+#     runs-on: ubuntu-latest
+#     steps:
+#     - uses: actions/checkout@v3
+#     - uses: DavidAnson/markdownlint-cli2-action@v18
+#       with:
+#         config: '.markdownlint.json'
